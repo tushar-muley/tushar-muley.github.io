@@ -1,1 +1,18 @@
+title: Tushar Muley # your name (or website title) here
+# logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  About Me:
+  <br>
+  I’m working as Sr Data Engineer for Financial Company. I recently graduated with a Master's degree in Data Science from Bellevue University.
+  I'm passionate about building data-intensive application and am a self titled data junky. 
+  <br><br>
+  Connect with me:
+  <br>
+  <a href="https://www.linkedin.com/in/tusharmuley/"><img src="images/linkedin.png" width="75" height="75" /></a>
+  <a href="https://github.com/tushar-muley"><img src="images/github.png" width="75" height="75" /></a>
+#  <a href="https://medium.com/@sathish.manthani"><img src="images/medium.png" width="75" height="75" /></a>  
+  <br><br>
+  <br><br>
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
