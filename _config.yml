@@ -3,13 +3,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   About me: 
   <br>
-  I'm currently working as a Sr. Data Engineer at American Express, Phoenix, AZ. I recently graduated with a Master's degree in Data Science from Bellevue University.
+  I'm currently working as a Sr. Data Engineer in Phoenix, AZ. I recently graduated with a Master's degree in Data Science from Bellevue University.
   I'm passionate about data analysis, data science and business intelligence. I consider myself a data junky.
   <br><br>
   Connect with me:
   <br>
-  <a href="https://www.linkedin.com/in/tusharmuley/"><img src="images/linkedin.png" width="75" height="75" /></a>
-  <a href="https://github.com/tushar-muley"><img src="images/github.png" width="75" height="75" /></a>
+  <a href="https://www.linkedin.com/in/tusharmuley/"><img src="images/linkedin.png" width="50" height="50" /></a>
+  <a href="https://github.com/tushar-muley"><img src="images/github.png" width="50" height="50" /></a>
   <br><br>
   <br><br>
 theme: jekyll-theme-minimal
