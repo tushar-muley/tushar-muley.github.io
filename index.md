@@ -2,7 +2,7 @@
 
 ---
 
-## **Case Study on Formula 1 International Racing Analysis**
+### **Case Study on Formula 1 Racing Analysis**
 <img src="images/f1_racing.png?raw=true"/>
 
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
@@ -11,7 +11,7 @@ manufactory data and various complex data transformation to complete the analysi
 determining the direction the sport has taken. The analysis provided information on winning driver age and successful constructors.<br>
 `
 <br>
-#### **Austin Housing Market Prediction Analysis**
+### **Austin Housing Market Prediction Analysis**
 <img src="images/housing.png?raw=true"/> <br>
 
 The Austin, Texas Metro area has seen an increase in population of 34% compared to the 2010 Census confirmed by the most recent Census data 
