@@ -26,4 +26,36 @@ Our goal was to accurately predict the prices of homes in the Austin market for 
 growing area. In the beginning we had to analyze the data and begin our preparation for the model we built. Features where updated from 
 human language to model ready input. With further analysis we then began to split and train the data trying to add or delete irrelevant 
 features from the training data.
-<br><br>
+<br>
+
+### **Los Angeles Bike Sharing Analysis**
+<img src="images/bike_sharing.png?raw=true"/> <br>
+
+As automobiles are contributor to health and global warming many of the world’s largest city are looking to limit their usage or band them from 
+entering city centers. Enter a possible solution to getting around. New bike sharing companies are showing up in a majority of city. In the 
+United States bike sharing program started in 2007 in Tulsa, Oklahoma. The growth has been stead since and is expected to increase from 
+$1.5 billion in 2020 to $4.4 billion by 2027.
+
+In this case study I took data from Metro Bike's found in Los Angeles, California. I used the data to perform Exploratory Data Analysis to better 
+understand some key elements to bike sharing. I asked my data to provide answer to the below questions. 
+
+1.	If how ridership changes throughout the year. 
+2.	How do weekdays compare to weekend for bike sharing? 
+3.	Does having a riding membership increase bike usage compared to the casual rider?
+4.	Identifying the top busiest bike stations
+5.	What features influence trip count?
+
+For my final question.
+6.	Could the data be used to predict the number of trips for a station? 
+<br> 
+
+### **Credit Risk Classification Model**
+<img src="images/credit_risk.png?raw=true"/> <br>
+
+Lending institution have a basic need to be able to accurately determine the riskiness of the individuals applying for a loan. It is one of their 
+biggest concerns as the margin for return is low and cost of servicing loans is high. Automation has assisted in lowering costs for servicing loans 
+but loan losses add to the cost. All financial lending institutions want to be able to lend to as many individuals as possible. They want to see a 
+recognized return in the form of returned principal and income as interest. The goal is to identify, which attributes better determine the riskiness 
+of the individuals that financial organization lending money to. I am proposing we determine if more features or different features are need to predict 
+the riskiness of the individuals before lending money to them.
+<br>
