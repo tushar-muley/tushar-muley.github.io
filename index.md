@@ -10,7 +10,7 @@ to perform the analysis of what it takes to win in Formula 1 racing. Includes me
 manufactory data and various complex data transformation to complete the analysis. Using Python to perform the EDA with data from 1950 to 2020 in 
 determining the direction the sport has taken. The analysis provided information on winning driver age and successful constructors.<br>
 
-### [Github Code](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis) 
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis) 
 
 <br>
 ### **Austin Housing Market Prediction Analysis**
@@ -25,9 +25,12 @@ rows all containing various features and information that Zillow contains for an
 Our goal was to accurately predict the prices of homes in the Austin market for families and individuals coming to work in the rapidly 
 growing area. In the beginning we had to analyze the data and begin our preparation for the model we built. Features where updated from 
 human language to model ready input. With further analysis we then began to split and train the data trying to add or delete irrelevant 
-features from the training data.
-<br>
+features from the training data.<br>
 
+<br>
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
+
+<br>
 ### **Los Angeles Bike Sharing Analysis**
 <img src="images/bike_sharing.png?raw=true"/> <br>
 
@@ -49,6 +52,10 @@ For my final question.
 6.	Could the data be used to predict the number of trips for a station? 
 <br> 
 
+<br>
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
+
+<br>
 ### **Credit Risk Classification Model**
 <img src="images/credit_risk.png?raw=true"/> <br>
 
@@ -58,4 +65,9 @@ but loan losses add to the cost. All financial lending institutions want to be a
 recognized return in the form of returned principal and income as interest. The goal is to identify, which attributes better determine the riskiness 
 of the individuals that financial organization lending money to. I am proposing we determine if more features or different features are need to predict 
 the riskiness of the individuals before lending money to them.
+<br>
+
+<br>
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
+
 <br>
