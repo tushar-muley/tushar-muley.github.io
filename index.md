@@ -2,7 +2,7 @@
 
 ---
 
-### **Case Study on Formula 1 Racing Analysis**
+### [**Case Study on Formula 1 Racing Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis)
 <img src="images/f1_racing.png?raw=true"/>
 
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
@@ -27,7 +27,6 @@ growing area. In the beginning we had to analyze the data and begin our preparat
 human language to model ready input. With further analysis we then began to split and train the data trying to add or delete irrelevant 
 features from the training data.<br>
 
-<br>
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
 
 <br>
@@ -52,7 +51,6 @@ For my final question.
 6.	Could the data be used to predict the number of trips for a station? 
 <br> 
 
-<br>
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
 
 <br>
@@ -67,7 +65,6 @@ of the individuals that financial organization lending money to. I am proposing 
 the riskiness of the individuals before lending money to them.
 <br>
 
-<br>
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
 
 <br>
