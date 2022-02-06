@@ -13,7 +13,7 @@ determining the direction the sport has taken. The analysis provided information
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis) 
 
 <br>
-### **Austin Housing Market Prediction Analysis**
+### [**Austin Housing Market Prediction Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
 <img src="images/housing.png?raw=true"/> <br>
 
 The Austin, Texas Metro area has seen an increase in population of 34% compared to the 2010 Census confirmed by the most recent Census data 
@@ -30,7 +30,7 @@ features from the training data.<br>
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
 
 <br>
-### **Los Angeles Bike Sharing Analysis**
+### [**Los Angeles Bike Sharing Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
 <img src="images/bike_sharing.png?raw=true"/> <br>
 
 As automobiles are contributor to health and global warming many of the world’s largest city are looking to limit their usage or band them from 
@@ -54,7 +54,7 @@ For my final question.
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
 
 <br>
-### **Credit Risk Classification Model**
+### [**Credit Risk Classification Model**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
 <img src="images/credit_risk.png?raw=true"/> <br>
 
 Lending institution have a basic need to be able to accurately determine the riskiness of the individuals applying for a loan. It is one of their 
