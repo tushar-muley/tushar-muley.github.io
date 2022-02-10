@@ -1,4 +1,5 @@
 ## **Data Science Projects Portfolio**
+<img align="center" src="images/portfolio.png"/>
 
 ---
 
