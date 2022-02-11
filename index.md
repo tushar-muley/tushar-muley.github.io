@@ -1,6 +1,6 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 <img align="center" src="images/portfolio.png" width="500" height="300"/>
-_____________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
 
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
@@ -16,6 +16,7 @@ determining the direction the sport has taken. The analysis provided information
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Github Repo
 
 <br>
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h4>
 <img align="center" src="images/housing.png" width="500" height="300"/>
 <br>
@@ -35,6 +36,7 @@ features from the training data.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Github Repo
 
 <br>
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h4>
 <img align="center" src="images/bike_sharing.png" width="500" height="300"/>
 <br>
@@ -60,8 +62,10 @@ For my final question.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Github Repo
 
 <br>
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
 <img align="center" src="credit_risk.png" width="500" height="300"/>
+
 <br>
   
 Lending institution have a basic need to be able to accurately determine the riskiness of the individuals applying for a loan. It is one of their 
@@ -75,6 +79,7 @@ the riskiness of the individuals before lending money to them.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Github Repo
 
 <br>
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
 <img align="center" src="caraccidents.png" width="500" height="300"/>
 <br>
@@ -88,6 +93,7 @@ and traffic controls.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Github Repo
 
 <br>
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
 <img align="center" src="baseball.png" width="500" height="300"/>
 <br>
