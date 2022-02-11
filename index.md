@@ -1,5 +1,5 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
-<img align="center" src="images/portfolio.png" width="500" height="300"/>
+<img align="center" src="images/portfolio.png" width="500" height="200"/>
 ________________________________________________________________________________________________________________________________________________________________________
 
 <h4 align="center">
@@ -95,7 +95,7 @@ and traffic controls.
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
-<img align="center" src="baseball.png" width="500" height="300"/>
+<img align="center" src="images/baseball.png" width="500" height="300"/>
 <br>
 
 A coding assignment that assisted in helping MLB Los Angeles Dodgers in discovering the best day of the week and promotion (give away) to increase 
