@@ -64,7 +64,7 @@ For my final question.
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
-<img align="center" src="credit_risk.png" width="500" height="300"/>
+<img align="center" src="images/credit_risk.png" width="500" height="300"/>
 
 <br>
   
@@ -81,7 +81,7 @@ the riskiness of the individuals before lending money to them.
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
-<img align="center" src="caraccidents.png" width="500" height="300"/>
+<img align="center" src="images/caraccidents.png" width="500" height="300"/>
 <br>
 
 This case study surrounded analysis performed on car accident data to determine some of the factors that caused the most amounts of accidents. Using R 
