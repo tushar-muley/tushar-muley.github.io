@@ -91,3 +91,16 @@ After EDA a Regression model was utilized to determine the day of the week and w
 <br>
 
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression)
+
+<br>
+<h4 align="center">
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">EDA of Airbnb Host compared to Super Host Title</a></h4>
+<img align="center" src="images/rentalhome.png" width="500" height="300"/>
+<br/>
+
+Airbnb is a vacation rental online marketplace company headquartered in San Francisco, California. The company itself does not own any of the rental 
+properties that are posted on its site. It provides a market place for individuals with properties to find short term tenants. This analysis was done 
+to better understand the title of Super Host compared to Host on Airbnb site and if it led to higher profits.
+<br>
+
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">Github Repo
