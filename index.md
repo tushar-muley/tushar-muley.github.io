@@ -1,6 +1,6 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 <img align="center" src="images/portfolio.png" width="500" height="300"/>
-__________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________
 
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
@@ -10,13 +10,15 @@ ________________________________________________________________________________
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
 to perform the analysis of what it takes to win in Formula 1 racing. Includes merging of driver information data, racing tracks information, with 
 manufactory data and various complex data transformation to complete the analysis. Using Python to perform the EDA with data from 1950 to 2020 in 
-determining the direction the sport has taken. The analysis provided information on winning driver age and successful constructors.<br>
+determining the direction the sport has taken. The analysis provided information on winning driver age and successful constructors.
+<br>
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis) 
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Github Repo
 
 <br>
-### [**Austin Housing Market Prediction Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
-<img src="images/housing.png?raw=true"/> <br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h4>
+<img align="center" src="images/housing.png" width="500" height="300"/>
+<br>
 
 The Austin, Texas Metro area has seen an increase in population of 34% compared to the 2010 Census confirmed by the most recent Census data 
 released in May of 2021. These new settlers are looking for affordable housing as they move into the newest tech hub outside of the 
@@ -27,13 +29,15 @@ rows all containing various features and information that Zillow contains for an
 Our goal was to accurately predict the prices of homes in the Austin market for families and individuals coming to work in the rapidly 
 growing area. In the beginning we had to analyze the data and begin our preparation for the model we built. Features where updated from 
 human language to model ready input. With further analysis we then began to split and train the data trying to add or delete irrelevant 
-features from the training data.<br>
+features from the training data.
+<br>
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis)
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Github Repo
 
 <br>
-### [**Los Angeles Bike Sharing Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
-<img src="images/bike_sharing.png?raw=true"/> <br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h4>
+<img align="center" src="images/bike_sharing.png" width="500" height="300"/>
+<br>
 
 As automobiles are contributor to health and global warming many of the world’s largest city are looking to limit their usage or band them from 
 entering city centers. Enter a possible solution to getting around. New bike sharing companies are showing up in a majority of city. In the 
@@ -53,12 +57,13 @@ For my final question.
 6.	Could the data be used to predict the number of trips for a station? 
 <br> 
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis)
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Github Repo
 
 <br>
-### [**Credit Risk Classification Model**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
-<img src="images/credit_risk.png?raw=true"/> <br>
-
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
+<img align="center" src="credit_risk.png" width="500" height="300"/>
+<br>
+  
 Lending institution have a basic need to be able to accurately determine the riskiness of the individuals applying for a loan. It is one of their 
 biggest concerns as the margin for return is low and cost of servicing loans is high. Automation has assisted in lowering costs for servicing loans 
 but loan losses add to the cost. All financial lending institutions want to be able to lend to as many individuals as possible. They want to see a 
@@ -67,11 +72,12 @@ of the individuals that financial organization lending money to. I am proposing 
 the riskiness of the individuals before lending money to them.
 <br>
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Github Repo
 
 <br>
-### [**Case Study on Determining Factor in Car Accidents**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident)
-<img src="images/caraccidents.png?raw=true"/> <br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
+<img align="center" src="caraccidents.png" width="500" height="300"/>
+<br>
 
 This case study surrounded analysis performed on car accident data to determine some of the factors that caused the most amounts of accidents. Using R 
 to perform the analysis to determine common factors like time of day, street type (surface street, interstates, or state routes), traffic controls and 
@@ -79,18 +85,19 @@ points of interest, using logistics regression to determine the severity of acci
 and traffic controls.
 <br>
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident)
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Github Repo
 
 <br>
-### [**Dodgers Marketing Promotion Utilizing Regression**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression)
-<img src="images/baseball.png?raw=true"/> <br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
+<img align="center" src="baseball.png" width="500" height="300"/>
+<br>
 
 A coding assignment that assisted in helping MLB Los Angeles Dodgers in discovering the best day of the week and promotion (give away) to increase 
 attendance. Different types of charts including boxplots, scatter plots, correlation chart and bar charts were employed for graphical data exploration. 
 After EDA a Regression model was utilized to determine the day of the week and which promotion to be used to increase attendance.
 <br>
 
-### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression)
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Github Repo
 
 <br>
 <h4 align="center">
