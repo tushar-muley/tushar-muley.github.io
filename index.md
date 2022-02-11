@@ -1,9 +1,11 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 <img align="center" src="images/portfolio.png" width="500" height="300"/>
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [**Case Study on Formula 1 Racing Analysis**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis)
-<img src="images/f1_racing.png?raw=true"/>
+<h4 align="center">
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
+<img align="center" src="images/f1_racing.png" width="500" height="300"/>
+<br/>
 
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
 to perform the analysis of what it takes to win in Formula 1 racing. Includes merging of driver information data, racing tracks information, with 
@@ -68,3 +70,24 @@ the riskiness of the individuals before lending money to them.
 ### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model)
 
 <br>
+### [**Case Study on Determining Factor in Car Accidents**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident)
+<img src="images/caraccidents.png?raw=true"/> <br>
+
+This case study surrounded analysis performed on car accident data to determine some of the factors that caused the most amounts of accidents. Using R 
+to perform the analysis to determine common factors like time of day, street type (surface street, interstates, or state routes), traffic controls and 
+points of interest, using logistics regression to determine the severity of accidents from contributing factors like weather, street type, time of day 
+and traffic controls.
+<br>
+
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident)
+
+<br>
+### [**Dodgers Marketing Promotion Utilizing Regression**](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression)
+<img src="images/baseball.png?raw=true"/> <br>
+
+A coding assignment that assisted in helping MLB Los Angeles Dodgers in discovering the best day of the week and promotion (give away) to increase 
+attendance. Different types of charts including boxplots, scatter plots, correlation chart and bar charts were employed for graphical data exploration. 
+After EDA a Regression model was utilized to determine the day of the week and which promotion to be used to increase attendance.
+<br>
+
+### [Github Repo](https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression)
