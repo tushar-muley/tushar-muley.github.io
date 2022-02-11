@@ -1,6 +1,6 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 <img align="center" src="images/portfolio.png" width="500" height="200"/>
-________________________________________________________________________________________________________________________________________________________________________
+
 
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
