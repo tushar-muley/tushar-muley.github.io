@@ -1,6 +1,6 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
 <img align="center" src="images/portfolio.png" width="500" height="300"/>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________
 
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
@@ -104,3 +104,18 @@ to better understand the title of Super Host compared to Host on Airbnb site and
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">Github Repo
+
+<br>
+<h4 align="center">
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Hurricane/Storm Analysis to Predict Deaths and Storm Strength</a></h4>
+<img align="center" src="images/hurricane.png" width="500" height="300"/>
+<br/>
+
+Using NOAA data from 1950 to 2018 to perform Exploratory Data Analysis (EDA) to determine the impact of hurricanes on United States citizens. 
+The analysis looks at number of deaths, reconstruction cost and total economic damage hurricanes leave behind as they turn inland. The case study 
+contains visuals of bar chats and correlation charts. Three different predictive models were used to increase the accuracy of the model.
+<br>
+
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Github Repo
+
+  
