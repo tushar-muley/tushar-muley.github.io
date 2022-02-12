@@ -131,4 +131,16 @@ contains visuals of bar chats and correlation charts. Three different predictive
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Github Repo
 
-  
+<br>
+<h4 align="center">
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Airline Safety Data Visualizations</a></h4>
+<img align="center" src="images/airplane3.png" width="500" height="300"/>
+<br/>
+
+This project show cases data visualization techniques for storytelling. The dashboard showcases how information can be focused for internal uses. 
+The project also contains how to display information to other audience types like the general public and executives to get safety and financial 
+information out the specific audiences. Data visualization is a technique used to tell the story of the data. In this example it is airline safety and 
+airlines financials.
+<br>
+
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Github Repo  
