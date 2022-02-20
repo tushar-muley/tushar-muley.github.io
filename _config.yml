@@ -12,6 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h3>Skills</h3>
   <p align="justify">Python Programming, R Programming, SQL, Data Preparation, Data Mining, Exploratory Data Analysis, 
   Predictive Analytics, Machine Learning, Big Data
-  Data Visualization (Tableau/MicroStrategy/DOMO/PowerBI) </p>
+  Data Visualization (Tableau/ MicroStrategy/ DOMO/ PowerBI) </p>
   <br>
 theme: jekyll-theme-minimal
