@@ -1,8 +1,8 @@
 title: Tushar Muley # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <img align="center" src="images/tushar.jpg" width="200" height="200" />
+  <img align="center" src="images/tushar.jpg" width="200" height="225" />
   <br><br>
-  About me: 
+  <a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a>
   <br>
   I'm currently working as a Sr. Data Engineer in Phoenix, AZ. I recently graduated with a Master's degree in Data Science from Bellevue University.
   I'm passionate about data analysis, data science and business intelligence. I consider myself a data junky.
@@ -12,5 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/tusharmuley/"><img src="images/linkedin.png" width="50" height="50" /></a>
   <a href="https://github.com/tushar-muley"><img src="images/github.png" width="50" height="50" /></a>
   <br><br>
+  <h3>Skills</h3>
+  <p align="justify">Python Programming, R Programming, SQL, Data Preparation (Wrangling/Denodo), Data Mining, Exploratory Data Analysis, 
+  Predictive Analytics, Machine Learning, Data Visualization (Tableau/MicroStrategy/DOMO), Big Data</p>
   <br><br>
 theme: jekyll-theme-minimal
