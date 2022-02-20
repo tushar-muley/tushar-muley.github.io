@@ -1,9 +1,9 @@
 title: Tushar Muley # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <img align="center" src="images/tushar.jpg" width="200" height="225" />
-  <br><br>
+  <img align="center" src="images/tushar.jpg" width="175" height="200" />
+  <br>
   <a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a>
-  <br><br>
+  <br>
   Connect with me:
   <br>
   <a href="https://www.linkedin.com/in/tusharmuley/"><img src="images/linkedin.png" width="50" height="50" /></a>
