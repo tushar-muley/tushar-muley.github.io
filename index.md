@@ -1,7 +1,9 @@
 <h2 align="center">Data Science Projects Portfolio</h2>
-<img align="center" src="images/portfolio.png" width="500" height="200"/>
+<img align="center" src="images/portfolio.png" width="500" height="175"/>
+<br/>
+Welcome to my Data Science Portfolio page on Github. Below are 10 of my most current projects I have worked on. Please have a look.
 
-
+<br/>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
 <img align="center" src="images/f1_racing.png" width="500" height="300"/>
