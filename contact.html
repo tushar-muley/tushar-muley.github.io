@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<h2>Contact Me</h2>
+<p>You can reach out to me using social media networks: 
+  <a href="https://linkedin.com/in/tusharmuley/">LinkedIn</a>, or  
+  through <a href="mailto:tmuley@gmail.com">email</a>; 
+  or by filling out the form below.</p>
+</body>
+
+<div id="contact">
+    <h3>Contact Form</h3>
+    <form accept-charset="utf-8" action="https://formspree.io/f/mnqwplll" method="post">
+      <fieldset>
+        <label for="full-name">Full Name</label>
+        <input type="text" name="Name" id="full-name" maxlength="50" placeholder="Firstname Lastname" required="" />
+  
+        <label for="email-address">Email Address</label>
+        <input type="email" name="Email" id="email-address" maxlength="50" placeholder="email@domain.com" required="" />
+  
+        <label for="email-subject">Subject</label>
+        <input type="text" name="Subject" id="email-subject" maxlength="50" placeholder="Subject of the email" required="" />
+  
+        <label for="message">Message</label>
+        <textarea type="text" name="Message" id="message" maxlength="2000" rows="10" placeholder="Your Text Here..." required=""></textarea>
+      </fieldset>
+  
+      <div style="align-items: center; display: flex; justify-content: center;">
+        <input type="submit" value="Submit" />
+      </div>
+    </form>
+  </div>
+
+<form>
+    <input type="button" value="Back" onclick="history.back()">
+</form>
+</html>
