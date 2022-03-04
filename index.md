@@ -3,7 +3,7 @@
 
 <p align="center">Welcome to my Data Science Portfolio page on Github. Below are 10 of my most current projects I have worked on. Please have a look.</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
 <img align="center" src="images/f1_racing.png" width="500" height="300"/>
 
@@ -15,7 +15,7 @@ determining the direction the sport has taken. The analysis provided information
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h4>
 <img align="center" src="images/housing.png" width="500" height="300"/>
 
@@ -33,7 +33,7 @@ features from the training data.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h4>
 <img align="center" src="images/bike_sharing.png" width="500" height="300"/>
 
@@ -57,7 +57,7 @@ For my final question.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
 <img align="center" src="images/credit_risk.png" width="500" height="300"/>
 
@@ -71,7 +71,7 @@ the riskiness of the individuals before lending money to them.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
 <img align="center" src="images/caraccidents.png" width="500" height="300"/>
 
@@ -83,7 +83,7 @@ and traffic controls.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
 <img align="center" src="images/baseball.png" width="500" height="300"/>
 
@@ -94,7 +94,7 @@ After EDA a Regression model was utilized to determine the day of the week and w
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">EDA of Airbnb Host compared to Super Host Title</a></h4>
 <img align="center" src="images/rentalhome.png" width="500" height="300"/>
 
@@ -105,7 +105,7 @@ to better understand the title of Super Host compared to Host on Airbnb site and
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Hurricane/Storm Analysis to Predict Deaths and Storm Strength</a></h4>
 <img align="center" src="images/hurricane.png" width="500" height="300"/>
 
@@ -116,7 +116,7 @@ contains visuals of bar chats and correlation charts. Three different predictive
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Github Repo
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Airline Safety Data Visualizations</a></h4>
 <img align="center" src="images/airplane3.png" width="500" height="300"/>
 
@@ -128,7 +128,7 @@ airlines financials.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Github Repo  
 <p align="center">___________________________________________________________________________________</p>
 
-<h4 align="center">
+<h3 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Preowned%20Vehicle%20Price%20Analysis%20and%20Prediction">Preowned Vehicle Price Analysis and Prediction</a></h4>
 <img align="center" src="images/carsales.png" width="500" height="300"/>
 
