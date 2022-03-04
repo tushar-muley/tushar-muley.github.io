@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background: lightblue;
+    text-align: center;
+}
+h1, h2 {
+    color: black;
+    font-family: Calibri;
+    font-size: 200%;
+}
+h3 {
+    color: black;
+    font-family: Calibri;
+    font-size: 150%;
+}
+p {
+    color: black;
+    font-family: Calibri; 
+    font-size: 150%;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    align-items: center;
+    padding: 1em;
+}
+
+div+div {
+    margin-top: 1em;
+}
+
+label span {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+}
+
+input, textarea {
+    font: 1em sans-serif;
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+    border-color: #000;
+}
+
+textarea {
+    vertical-align: top;
+    height: 5em;
+    resize: vertical;
+}
+
+fieldset {
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    margin-left: 63px;
+}
+
+button {
+    margin: 20px 0 0 124px;
+}
+
+label {
+  position: relative;
+}
