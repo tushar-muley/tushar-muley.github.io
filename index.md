@@ -128,6 +128,7 @@ airlines financials.
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Github Repo  
 <p align="center">___________________________________________________________________________________</p>
 
+<h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Preowned%20Vehicle%20Price%20Analysis%20and%20Prediction">Preowned Vehicle Price Analysis and Prediction</a></h4>
 <img align="center" src="images/carsales.png" width="500" height="300"/>
 
