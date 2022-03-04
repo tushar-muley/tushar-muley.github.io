@@ -4,7 +4,7 @@
 <p align="center">Welcome to my Data Science Portfolio page on Github. Below are 10 of my most current projects I have worked on. Please have a look.</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h3>
 <img align="center" src="images/f1_racing.png" width="500" height="300"/>
 
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
@@ -16,7 +16,7 @@ determining the direction the sport has taken. The analysis provided information
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h3>
 <img align="center" src="images/housing.png" width="500" height="300"/>
 
 The Austin, Texas Metro area has seen an increase in population of 34% compared to the 2010 Census confirmed by the most recent Census data 
@@ -34,7 +34,7 @@ features from the training data.
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h3>
 <img align="center" src="images/bike_sharing.png" width="500" height="300"/>
 
 As automobiles are contributor to health and global warming many of the world’s largest city are looking to limit their usage or band them from 
@@ -58,7 +58,7 @@ For my final question.
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h3>
 <img align="center" src="images/credit_risk.png" width="500" height="300"/>
 
 Lending institution have a basic need to be able to accurately determine the riskiness of the individuals applying for a loan. It is one of their 
@@ -72,7 +72,7 @@ the riskiness of the individuals before lending money to them.
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h3>
 <img align="center" src="images/caraccidents.png" width="500" height="300"/>
 
 This case study surrounded analysis performed on car accident data to determine some of the factors that caused the most amounts of accidents. Using R 
@@ -84,7 +84,7 @@ and traffic controls.
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h3>
 <img align="center" src="images/baseball.png" width="500" height="300"/>
 
 A coding assignment that assisted in helping MLB Los Angeles Dodgers in discovering the best day of the week and promotion (give away) to increase 
@@ -95,7 +95,7 @@ After EDA a Regression model was utilized to determine the day of the week and w
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">EDA of Airbnb Host compared to Super Host Title</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">EDA of Airbnb Host compared to Super Host Title</a></h3>
 <img align="center" src="images/rentalhome.png" width="500" height="300"/>
 
 Airbnb is a vacation rental online marketplace company headquartered in San Francisco, California. The company itself does not own any of the rental 
@@ -106,7 +106,7 @@ to better understand the title of Super Host compared to Host on Airbnb site and
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Hurricane/Storm Analysis to Predict Deaths and Storm Strength</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Hurricane/Storm Analysis to Predict Deaths and Storm Strength</a></h3>
 <img align="center" src="images/hurricane.png" width="500" height="300"/>
 
 Using NOAA data from 1950 to 2018 to perform Exploratory Data Analysis (EDA) to determine the impact of hurricanes on United States citizens. 
@@ -117,7 +117,7 @@ contains visuals of bar chats and correlation charts. Three different predictive
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Airline Safety Data Visualizations</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Airline Safety Data Visualizations</a></h3>
 <img align="center" src="images/airplane3.png" width="500" height="300"/>
 
 This project show cases data visualization techniques for storytelling. The dashboard showcases how information can be focused for internal uses. 
@@ -129,7 +129,7 @@ airlines financials.
 <p align="center">___________________________________________________________________________________</p>
 
 <h3 align="center">
-<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Preowned%20Vehicle%20Price%20Analysis%20and%20Prediction">Preowned Vehicle Price Analysis and Prediction</a></h4>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Preowned%20Vehicle%20Price%20Analysis%20and%20Prediction">Preowned Vehicle Price Analysis and Prediction</a></h3>
 <img align="center" src="images/carsales.png" width="500" height="300"/>
 
 As use car prices have gone up due to shortage of new cars, reduce level of public transportation due to COVID-19. This has caused an increase in 
