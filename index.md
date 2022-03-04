@@ -8,7 +8,7 @@
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Case Study on Formula 1 Racing Analysis</a></h4>
 <img align="center" src="images/f1_racing.png" width="500" height="300"/>
 <br/>
-<p align="center">___________________________________________________________________________________</p>
+
 A case study on exploratory data analysis (EDA) and coding of bring together different types of data sets 
 to perform the analysis of what it takes to win in Formula 1 racing. Includes merging of driver information data, racing tracks information, with 
 manufactory data and various complex data transformation to complete the analysis. Using Python to perform the EDA with data from 1950 to 2020 in 
@@ -16,7 +16,7 @@ determining the direction the sport has taken. The analysis provided information
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Formula%201%20Racing%20Analysis">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Austin Housing Market Prediction Analysis</a></h4>
@@ -36,7 +36,7 @@ features from the training data.
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Austin%20Texas%20Housing%20Market%20Analysis">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Los Angeles Bike Sharing Analysis</a></h4>
@@ -62,7 +62,7 @@ For my final question.
 <br> 
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Los%20Angeles%20Bike%20Sharing%20Analysis">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Credit Risk Classification Model</a></h4>
@@ -79,7 +79,7 @@ the riskiness of the individuals before lending money to them.
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Credit%20Risk%20Classification%20Model">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Case Study on Determining Factor in Car Accidents</a></h4>
@@ -93,7 +93,7 @@ and traffic controls.
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Case%20Study%20on%20Determining%20Factors%20in%20Car%20Accident">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Dodgers Marketing Promotion Utilizing Regression</a></h4>
@@ -106,7 +106,7 @@ After EDA a Regression model was utilized to determine the day of the week and w
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Dodgers%20Marketing%20Promotion%20Utilizing%20Regression">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">EDA of Airbnb Host compared to Super Host Title</a></h4>
@@ -119,7 +119,7 @@ to better understand the title of Super Host compared to Host on Airbnb site and
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/EDA%20of%20Airbnb%20Host%20compared%20to%20Super%20Host%20Title">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Hurricane/Storm Analysis to Predict Deaths and Storm Strength</a></h4>
@@ -132,7 +132,7 @@ contains visuals of bar chats and correlation charts. Three different predictive
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Hurricane%20Data%20Analysis%20and%20the%20Toll%20they%20Take">Github Repo
-
+<p align="center">___________________________________________________________________________________</p>
 <br>
 <h4 align="center">
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Airline Safety Data Visualizations</a></h4>
@@ -146,3 +146,14 @@ airlines financials.
 <br>
 
 <a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Github Repo  
+<p align="center">___________________________________________________________________________________</p>
+<br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Preowned Vehicle Price Analysis and Prediction</a></h4>
+<img align="center" src="carsales.png" width="500" height="300"/>
+<br/>
+  
+As use car prices have gone up due to shortage of new cars, reduce level of public transportation due to COVID-19. This has caused an increase in 
+used/pre-owned vehicles. This analysis and prediction take a look at Craig’s List (craigslist.org) data of preowned vehicles to determine if prices 
+are increasing for all cars or just certain makes, models or years. 
+<br>
+<a href="https://github.com/tushar-muley/Data-Science-Projects/tree/master/Airline%20Safety%20Data%20Visualization">Github Repo 
